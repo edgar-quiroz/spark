@@ -1,6 +1,6 @@
 # Spark docker image  
   
-## To build this image we hace two options:  
+## There are two options for building this image:  
 1) Download manually Apache Spark and COPY to Docker.  
 2) Use ADD command to download spark files every docker build.  
   
